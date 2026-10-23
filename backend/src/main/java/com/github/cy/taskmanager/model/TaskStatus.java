@@ -1,4 +1,4 @@
-package com.github.caitlinyih.taskmanager.model;
+package com.github.cy.taskmanager.model;
 
 public enum TaskStatus {
     TODO,

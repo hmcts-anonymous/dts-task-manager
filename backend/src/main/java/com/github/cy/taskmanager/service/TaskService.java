@@ -1,11 +1,11 @@
-package com.github.caitlinyih.taskmanager.service;
+package com.github.cy.taskmanager.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import com.github.caitlinyih.taskmanager.dto.CreateTaskRequest;
-import com.github.caitlinyih.taskmanager.model.Task;
-import com.github.caitlinyih.taskmanager.model.TaskStatus;
-import com.github.caitlinyih.taskmanager.repository.TaskRepository;
+import com.github.cy.taskmanager.dto.CreateTaskRequest;
+import com.github.cy.taskmanager.model.Task;
+import com.github.cy.taskmanager.model.TaskStatus;
+import com.github.cy.taskmanager.repository.TaskRepository;
 
 import java.util.List;
 import java.util.Optional;

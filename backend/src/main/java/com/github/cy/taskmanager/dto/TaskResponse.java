@@ -1,7 +1,7 @@
-package com.github.caitlinyih.taskmanager.dto;
+package com.github.cy.taskmanager.dto;
 
-import com.github.caitlinyih.taskmanager.model.Task;
-import com.github.caitlinyih.taskmanager.model.TaskStatus;
+import com.github.cy.taskmanager.model.Task;
+import com.github.cy.taskmanager.model.TaskStatus;
 
 import java.time.LocalDateTime;
 

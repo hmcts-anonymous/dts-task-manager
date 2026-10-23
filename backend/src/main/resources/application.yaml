@@ -15,4 +15,4 @@ spring:
     show-sql: false
 
 springdoc:
-  packagesToScan: com.github.caitlinyih.taskmanager.controller
+  packagesToScan: com.github.cy.taskmanager.controller

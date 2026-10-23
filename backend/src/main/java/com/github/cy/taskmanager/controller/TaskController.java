@@ -1,4 +1,4 @@
-package com.github.caitlinyih.taskmanager.controller;
+package com.github.cy.taskmanager.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.github.caitlinyih.taskmanager.dto.CreateTaskRequest;
-import com.github.caitlinyih.taskmanager.dto.TaskResponse;
-import com.github.caitlinyih.taskmanager.dto.UpdateStatusRequest;
-import com.github.caitlinyih.taskmanager.service.TaskService;
+import com.github.cy.taskmanager.dto.CreateTaskRequest;
+import com.github.cy.taskmanager.dto.TaskResponse;
+import com.github.cy.taskmanager.dto.UpdateStatusRequest;
+import com.github.cy.taskmanager.service.TaskService;
 
 import java.util.List;
 

@@ -10,7 +10,7 @@
         <version>3.4.3</version>
     </parent>
 
-    <groupId>com.github.caitlinyih</groupId>
+    <groupId>com.github.cy</groupId>
     <artifactId>task-manager-backend</artifactId>
     <version>0.0.1</version>
     <name>Task Manager Backend</name>

@@ -1,4 +1,4 @@
-package com.github.caitlinyih.taskmanager.model;
+package com.github.cy.taskmanager.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.github.caitlinyih.taskmanager;
+package com.github.cy.taskmanager;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

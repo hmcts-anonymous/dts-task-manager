@@ -1,4 +1,4 @@
-package com.github.caitlinyih.taskmanager.exception;
+package com.github.cy.taskmanager.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
